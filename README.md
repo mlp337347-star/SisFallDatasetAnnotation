@@ -7,8 +7,8 @@ And they're .txts.
 
 Firstly changing them into csv then annotating them.
 
-All kinds of walks are walks in label 1.
-All kinds of joggings are label 2.
+All kinds of walks are walks in label 9.
+All kinds of joggings are label 4.
 go upstairs 5
 go downstairs 6
 
